@@ -1,0 +1,4 @@
+# Requirements
+
+Python 3.0+
+Excel 2007+

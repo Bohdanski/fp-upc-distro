@@ -1,0 +1,40 @@
+# JPEG
+*.jpg
+*.jpeg
+*.jpe
+*.jif
+*.jfif
+*.jfi
+
+# Icon
+#*.ico
+
+# Graphics Interchange Format
+*.gif
+
+# Portable Network Graphics
+*.png
+
+# Portable Document Format
+*.pdf
+
+# Visual Studio
+*.vs
+
+# Jupyter
+.ipynb_checkpoints
+
+# Log
+*.log
+
+# Credentials
+credentials.py
+
+# Driver Folder
+chromedriver_win32/
+
+# Data Folder
+data/
+
+# Excel Folder
+excel/
